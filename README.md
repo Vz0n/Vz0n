@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1>Welcome</h1>
 
-<!--
-**Vz0n/Vz0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- My name is Samuel and i am 16 years old.
 
-Here are some ideas to get you started:
+- I have been learning programming for 2 years and i continue to this day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- My favorite programming language is Java
+
+- I work as CEO and developer at <a href="https://github.com/The-GalaxieMC-Network">GalaxieMC Network.</a>
+
+<hr>
+
+<h1>Contact me</h1>
+
+Discord: Vz0n#9206
+
+Twitter: @Vzon12
+
+<hr>
+
+Github Stats
+
+[Stats](https://github-readme-stats.vercel.app/api?username=Vz0n&theme=tokyonight)
+
+[Most used languages](https://github-readme-stats.vercel.app/top-langs/api?username=Vz0n&theme=tokyonight)
+
+**Without more to say, have a good day!**
+ 
