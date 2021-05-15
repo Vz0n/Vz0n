@@ -22,7 +22,5 @@ Twitter: @Vzon12
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Vz0n&theme=tokyonight&count_private=true)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vz0n&theme=tokyonight)
-
 **Without more to say, have a good day!**
  
