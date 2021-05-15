@@ -10,7 +10,7 @@
 
 <hr>
 
-<h2>Contact me at:</h2>
+<h5>Contact me at:</h5>
 
 Discord: Vz0n#9206
 
@@ -18,11 +18,11 @@ Twitter: @Vzon12
 
 <hr>
 
-Github Stats
+**My Github Stats**
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Vz0n&theme=tokyonight&count_private=true)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/api?username=Vz0n&theme=tokyonight)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vz0n&theme=tokyonight)
 
 **Without more to say, have a good day!**
  
