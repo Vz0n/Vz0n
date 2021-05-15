@@ -1,4 +1,4 @@
-<h1>Welcome</h1>
+<h1>Welcome</h1> 👋
 
 - My name is Samuel and i am 16 years old.
 
@@ -20,9 +20,9 @@ Twitter: @Vzon12
 
 Github Stats
 
-[Stats](https://github-readme-stats.vercel.app/api?username=Vz0n&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Vz0n&theme=tokyonight&count_private=true)
 
-[Most used languages](https://github-readme-stats.vercel.app/top-langs/api?username=Vz0n&theme=tokyonight)
+![Most used languages](https://github-readme-stats.vercel.app/top-langs/api?username=Vz0n&theme=tokyonight)
 
 **Without more to say, have a good day!**
  
