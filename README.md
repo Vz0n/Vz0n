@@ -14,7 +14,7 @@
 
 Discord: Vz0n#9206
 
-Twitter: @Vzon12
+Twitter: @iVz0n
 
 <hr>
 
