@@ -12,7 +12,7 @@
 
 <h5>Contact me at:</h5>
 
-Discord: Vz0n#9206
+Discord: Vz0n#2004
 
 Twitter: @iVz0n
 
