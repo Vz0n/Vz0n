@@ -1,16 +1,16 @@
-<h1>Welcome 👋</h1> 
+<h1>Hello 🤘</h1> 
 
-- My name is Samuel and i am 16 years old.
+- My name is Samuel, im from Venezuela and i am 16 years old.
 
-- I have been learning programming for 2 years and i continue to this day.
+- I have been learning programming for 2 years and i continue to this day. 
 
-- My favorite programming language is Java
+- My favorite programming language is Java.
 
 - I work as CEO and developer at <a href="https://github.com/The-GalaxieMC-Network">GalaxieMC Network.</a>
 
 <hr>
 
-<h5>Contact me at:</h5>
+<h5>📪 You can contact me by:</h5>
 
 Discord: Vz0n#2004
 
@@ -18,9 +18,10 @@ Twitter: @iVz0n
 
 <hr>
 
-**My Github Stats**
+**GitHub Stats**
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Vz0n&theme=tokyonight&count_private=true)
 
-**Without more to say, have a good day!**
+**I hope you have a good day!**
  
+*Don't get stuck saying "I can't", "It's too hard for me to do it", keep trying and improve until you succeed.*
