@@ -1,4 +1,4 @@
-<h1>Hello 🤘</h1> 
+<h1>Hello ✌</h1> 
 
 - My name is Samuel, im from Venezuela and i am 16 years old.
 
