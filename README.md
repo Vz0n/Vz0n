@@ -6,8 +6,6 @@
 
 - My favorite programming language is Java.
 
-- I work as CEO and developer at <a href="https://github.com/The-GalaxieMC-Network">GalaxieMC Network.</a>
-
 <hr>
 
 <h5>📪 You can contact me by:</h5>
