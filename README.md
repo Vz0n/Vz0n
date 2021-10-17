@@ -10,7 +10,7 @@
 
 <h5>📪 You can contact me by:</h5>
 
-Discord: Vz0n#2004
+Discord: Vz0n#9592
 
 Twitter: @iVz0n
 
