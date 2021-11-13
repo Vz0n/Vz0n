@@ -12,7 +12,7 @@
 
 Discord: Vz0n#9592
 
-Twitter: @iVz0n
+Twitter: [@iVz0n](https://twitter.com/iVz0n)
 
 <hr>
 
