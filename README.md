@@ -1,6 +1,6 @@
 <h1>Hello ✌</h1> 
 
-- My name is Samuel, im from Venezuela and i am 16 years old.
+- My name is Samuel, im from Venezuela and i am 17 years old.
 
 - I have been learning programming for 2 years and i continue to this day. 
 
