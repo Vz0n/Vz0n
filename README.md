@@ -2,7 +2,7 @@
 
 - My name is Samuel, im from Venezuela and i am 17 years old.
 
-- I have been learning programming for 2 years and i continue to this day. 
+- I have been learning programming for 3 years and i continue to this day. 
 
 - My favorite programming language is Java.
 
