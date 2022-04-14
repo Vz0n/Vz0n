@@ -1,10 +1,10 @@
 <h1>Hello ✌</h1> 
 
-- My name is Samuel, im from Venezuela and i am 17 years old.
+- I'm from Venezuela, 17 yo.
 
-- I have been learning programming for 3 years and i continue to this day. 
+- I have been learning programming for 3 years and keep going to this day. 
 
-- My favorite programming language is Java.
+- My favourite programming language is Java.
 
 <hr>
 
@@ -20,6 +20,6 @@ Twitter: [@iVz0n](https://twitter.com/iVz0n)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Vz0n&theme=tokyonight&count_private=true)
 
-**I hope you have a good day!**
+Well, this is all. Have a nice moment viewing my repos, i guess.
  
 *Don't get stuck saying "I can't", "It's too hard for me to do it", keep trying and improve until you succeed.*
