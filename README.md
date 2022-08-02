@@ -11,7 +11,7 @@ You can find or contact me by:
 
 - <a href="https://twitter.com/iVz0n">Twitter</a> (iVz0n)
 - <a href="https://www.youtube.com/channel/UCgSLUDYucrmqfkexJbosVZwn">YouTube</a> (Vz0n)
-- <a href="https://dsc.bio/vz0n2004">Discord</a> (Vz0n#2004)
+- <a href="https://dsc.bio/vz0n2004">Discord</a> (Vz0n#9513)
 - <a href="https://www.spigotmc.org/members/vz0n.700508/">SpigotMC</a> (Vz0n)
 - <a href="https://www.twitch.tv/ivz0n">Twitch</a> (ivz0n_)
 
