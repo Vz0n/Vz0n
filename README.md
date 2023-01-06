@@ -5,13 +5,13 @@
   <br>
   <kbd>18yo</kbd>
   <br>
+  <br>
   <span>A dev and HackTheBox/CTF player (no, i'm not hacker Facebook, Minecraft griefer nor Discord raider)</span>
   <!-- also <br> lover -->
 </p>
   
 <br>
 <h3>Things that i normally use</h3>  
-<br>
 <br>
 <p style="display: inline">
   <img src="assets/windows.svg" width="48" height="48" title="Windows w/ Active Directory">
