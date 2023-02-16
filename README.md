@@ -25,11 +25,11 @@
   <img src="assets/git.svg" width="48" height="48" title="Git">
   <img src="assets/apache.svg" width="48" height="48" title="Apache"/>
   <img src="assets/nginx.svg" width="48" height="48" title="Nginx"/>
-  <img src="assets/mongodb.svg" width="48" height="48" title="MongoDB/NoSQL"/>
-  <img src="assets/mysql.svg" width="48" height="48" title="' OR 1=1 -- -"/>
+  <img src="assets/mongodb.svg" width="48" height="48" title="MongoDB"/>
+  <img src="assets/mysql.svg" width="48" height="48" title="MySQL"/>
   <img src="assets/nodejs.svg" width="48" height="48" title="node.js"/>
   <img src="assets/react.svg" width="48" height="48" title="React and some of his 214123 libraries/frameworks"/>
-  <img src="assets/angular.svg" width="48" height="48" title="Angular"/>
+  <img src="assets/go.svg" width="48" height="48" title="GoLang"/>
   <img src="assets/typescript.svg" width="48" height="48" title="TypeScript"/>
   <img src="assets/bash.svg" width="48" height="48" title="Bash"/>
   <img src="assets/powershell.png" title="Powershell"/>
