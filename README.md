@@ -1,12 +1,12 @@
 <p align="center">
   <a src="https://discord.com/users/247463596169101313">
-    <img src="https://lanyard.cnrad.dev/api/247463596169101313?idleMessage=watching%20surely%20nekos..."/>
+    <img src="https://lanyard.cnrad.dev/api/247463596169101313?idleMessage=watching%20things..."/>
   </a>
   <br>
   <kbd>18yo</kbd>
   <br>
   <br>
-  <span>A dev and HackTheBox/CTF player (no, i'm not hacker Facebook, Minecraft griefer nor Discord raider)</span>
+  <span>A dev and ethical hacking enthusiast (no, i'm not hacker Facebook, Minecraft griefer nor Discord raider)</span>
   <!-- also <br> lover -->
 </p>
   
@@ -27,6 +27,7 @@
   <img src="assets/nginx.svg" width="48" height="48" title="Nginx"/>
   <img src="assets/mongodb.svg" width="48" height="48" title="MongoDB"/>
   <img src="assets/mysql.svg" width="48" height="48" title="MySQL"/>
+  <img src="assets/redis.svg" width="48" height="48" title="Redis"/>
   <img src="assets/nodejs.svg" width="48" height="48" title="node.js"/>
   <img src="assets/react.svg" width="48" height="48" title="React and some of his 214123 libraries/frameworks"/>
   <img src="assets/go.svg" width="48" height="48" title="GoLang"/>
@@ -49,7 +50,7 @@
 - <a href="https://www.spigotmc.org/members/vz0n.700508/">SpigotMC</a> 
 - <a href="https://www.twitch.tv/ivz0n">Twitch</a>
 - <a href="https://app.hackthebox.com/profile/1129266">HackTheBox</a>
-<!-- if you are doing osint, then there are my accounts uwu -->
+<!-- if you are doing OSINT, then there are my accounts. -->
 
 
 
