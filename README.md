@@ -6,7 +6,7 @@
   <kbd>18yo</kbd>
   <br>
   <br>
-  <span>A dev and ethical hacking enthusiast (no, i'm not hacker Facebook, Minecraft griefer nor Discord raider)</span>
+  <span>Hacking enthusiast and programmer</span>
   <!-- also <br> lover -->
 </p>
   
