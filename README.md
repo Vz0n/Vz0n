@@ -15,21 +15,19 @@
 <br>
 <p style="display: inline">
   <img src="assets/windows.svg" width="48" height="48" title="Windows w/ Active Directory">
-  <img src="assets/arch.png" title="btw i use arch">
-  <img src="assets/debian.svg" width="48" height="48" title="Debian based distros">
+  <img src="assets/linux.svg" width="48" height="48" title="Linux (i use Arch btw)">
   <img src="assets/kubernetes.svg" width="48" height="48" title="Kubernetes">
   <img src="assets/docker.svg" width="48" height="48" title="Docker">
   <img src="assets/jetbrains.svg" width="48" height="48" title="JetBrains IDEs">
   <img src="assets/vscode.svg" width="48" height="48" title="Visual Studio Code">
   <img src="assets/nvim.png" title="Neovim">
   <img src="assets/git.svg" width="48" height="48" title="git">
-  <img src="assets/apache.svg" width="48" height="48" title="Apache"/>
-  <img src="assets/nginx.svg" width="48" height="48" title="NGINX"/>
+  <img src="assets/nginx.svg" width="48" height="48" title="nginx"/>
   <img src="assets/mongodb.svg" width="48" height="48" title="MongoDB"/>
   <img src="assets/mysql.svg" width="48" height="48" title="MySQL"/>
   <img src="assets/redis.svg" width="48" height="48" title="Redis"/>
   <img src="assets/nodejs.svg" width="48" height="48" title="node.js"/>
-  <img src="assets/react.svg" width="48" height="48" title="React and some of his 214123 libraries/frameworks"/>
+  <img src="assets/react.svg" width="48" height="48" title="React and some of its 214123 libraries/frameworks"/>
   <img src="assets/go.svg" width="48" height="48" title="Golang"/>
   <img src="assets/typescript.svg" width="48" height="48" title="TypeScript"/>
   <img src="assets/bash.svg" width="48" height="48" title="Bash"/>
@@ -38,6 +36,7 @@
   <img src="assets/python.svg" width="48" height="48" title="Python"/>
   <img src="assets/html.svg" width="48" height="48" title="The best language for cybersecurity"/>
   <img src="assets/php.svg" width="48" height="48" title="PHP"/>
+  <img src="assets/rust.svg" width="48" height="48" title="Rust"/>
   <img src="assets/javascript.svg" width="48" height="48" title="JavaScript"/>
   <img src="assets/ruby.svg" width="48" height="48" title="Ruby"/>
   <img src="assets/cpp.svg" width="48" height="48" title="C++"/>
