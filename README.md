@@ -3,7 +3,7 @@
     <img src="https://lanyard.cnrad.dev/api/247463596169101313?idleMessage=watching%20things..."/>
   </a>
   <br>
-  <kbd>18yo</kbd>
+  <kbd>19yo</kbd>
   <br>
   <br>
   <span>Hacking enthusiast and programmer</span>
