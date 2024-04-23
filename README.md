@@ -47,6 +47,6 @@
 - <a href="https://www.twitch.tv/ivz0n">Twitch</a>
 - <a href="https://app.hackthebox.com/profile/1129266">HackTheBox</a>
 
-<h3>You won't put your GitHub stats here?</h3>
+<h3>Won't you put GitHub stats here?</h3>
 <p>Why i would</p>
 
