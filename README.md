@@ -11,16 +11,13 @@
 </p>
   
 <br>
-<h3>Things that i normally use</h3>  
+<h3>Stuff</h3>
+<p>Things that i normally use for development and fun. There's more though</p>
 <br>
 <p style="display: inline">
   <img src="assets/windows.svg" width="48" height="48" title="Windows w/ Active Directory">
   <img src="assets/linux.svg" width="48" height="48" title="Linux (i use Arch btw)">
-  <img src="assets/kubernetes.svg" width="48" height="48" title="Kubernetes">
   <img src="assets/docker.svg" width="48" height="48" title="Docker">
-  <img src="assets/jetbrains.svg" width="48" height="48" title="JetBrains IDEs">
-  <img src="assets/vscode.svg" width="48" height="48" title="Visual Studio Code">
-  <img src="assets/nvim.png" title="Neovim">
   <img src="assets/git.svg" width="48" height="48" title="git">
   <img src="assets/nginx.svg" width="48" height="48" title="nginx"/>
   <img src="assets/mongodb.svg" width="48" height="48" title="MongoDB"/>
@@ -34,7 +31,7 @@
   <img src="assets/powershell.png" title="PowerShell"/>
   <img src="assets/java.svg" width="48" height="48" title="Java"/>
   <img src="assets/python.svg" width="48" height="48" title="Python"/>
-  <img src="assets/html.svg" width="48" height="48" title="The best language for cybersecurity"/>
+  <img src="assets/html.svg" width="48" height="48" title="HTML"/>
   <img src="assets/php.svg" width="48" height="48" title="PHP"/>
   <img src="assets/rust.svg" width="48" height="48" title="Rust"/>
   <img src="assets/javascript.svg" width="48" height="48" title="JavaScript"/>
@@ -45,12 +42,11 @@
 
 <h3>Contact</h3>
 
-- <a href="https://twitter.com/iVz0n">Twitter</a> 
+- <a href="https://twitter.com/iVz0n">X (Twitter)</a> 
 - <a href="https://www.youtube.com/channel/UCgSLUDYucrmqfkexJbosVZwn">YouTube</a> 
-- <a href="https://www.spigotmc.org/members/vz0n.700508/">SpigotMC</a> 
 - <a href="https://www.twitch.tv/ivz0n">Twitch</a>
 - <a href="https://app.hackthebox.com/profile/1129266">HackTheBox</a>
-<!-- if you are doing OSINT, then there are my accounts. -->
 
-
+<h3>You won't put your GitHub stats here?</h3>
+<p>Why i would</p>
 
