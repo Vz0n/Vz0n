@@ -43,7 +43,7 @@
 <h3>Contact</h3>
 
 - <a href="https://twitter.com/iVz0n">X (Twitter)</a> 
-- <a href="https://www.youtube.com/channel/UCgSLUDYucrmqfkexJbosVZwn">YouTube</a> 
+- <a href="https://www.youtube.com/@Vz0n">YouTube</a> 
 - <a href="https://www.twitch.tv/ivz0n">Twitch</a>
 - <a href="https://app.hackthebox.com/profile/1129266">HackTheBox</a>
 
