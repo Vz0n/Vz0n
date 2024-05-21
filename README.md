@@ -1,6 +1,6 @@
 <p align="center">
   <a src="https://discord.com/users/247463596169101313">
-    <img src="https://lanyard.cnrad.dev/api/247463596169101313?idleMessage=watching%20things..."/>
+    <img src="https://lanyard.cnrad.dev/api/247463596169101313?idleMessage=desu%20nya"/>
   </a>
   <br>
   <kbd>19yo</kbd>
@@ -18,7 +18,6 @@
   <img src="assets/windows.svg" width="48" height="48" title="Windows w/ Active Directory">
   <img src="assets/linux.svg" width="48" height="48" title="Linux (i use Arch btw)">
   <img src="assets/docker.svg" width="48" height="48" title="Docker">
-  <img src="assets/git.svg" width="48" height="48" title="git">
   <img src="assets/nginx.svg" width="48" height="48" title="nginx"/>
   <img src="assets/mongodb.svg" width="48" height="48" title="MongoDB"/>
   <img src="assets/mysql.svg" width="48" height="48" title="MySQL"/>
@@ -42,7 +41,7 @@
 
 <h3>Contact</h3>
 
-- <a href="https://twitter.com/iVz0n">X (Twitter)</a> 
+- <a href="https://x.com/iVz0n">X (Twitter)</a> 
 - <a href="https://www.youtube.com/@Vz0n">YouTube</a> 
 - <a href="https://www.twitch.tv/ivz0n">Twitch</a>
 - <a href="https://app.hackthebox.com/profile/1129266">HackTheBox</a>
