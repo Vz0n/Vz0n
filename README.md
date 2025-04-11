@@ -6,7 +6,7 @@
   <kbd>20yo</kbd>
   <br>
   <br>
-  <span>Hacking enthusiast and developer</span>
+  <span>Hacking and math enthusiast</span>
   <!-- also <br> lover -->
 </p>
   
