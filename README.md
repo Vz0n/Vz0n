@@ -35,7 +35,7 @@
   <img src="assets/rust.svg" width="48" height="48" title="Rust"/>
   <img src="assets/javascript.svg" width="48" height="48" title="JavaScript"/>
   <img src="assets/ruby.svg" width="48" height="48" title="Ruby"/>
-  <img src="assets/cpp.svg" width="48" height="48" title="C++"/>
+  <img src="assets/c.svg" width="48" height="48" title="C"/>
   <img src="assets/cs.svg" width="48" height="48" title="C#"/>
 </p>
 
