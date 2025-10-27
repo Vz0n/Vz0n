@@ -7,7 +7,7 @@
   <br>
   <br>
   <span>Hacking and math enthusiast</span>
-  <!-- also <br> lover -->
+  <!-- I'm not dead. Just I don't have nothing to update/add for now -->
 </p>
   
 <br>
