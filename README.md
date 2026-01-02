@@ -3,7 +3,7 @@
     <img src="https://lanyard.cnrad.dev/api/247463596169101313?idleMessage=desu%20nya"/>
   </a>
   <br>
-  <kbd>20yo</kbd>
+  <kbd>21yo</kbd>
   <br>
   <br>
   <span>Hacking and math enthusiast</span>
